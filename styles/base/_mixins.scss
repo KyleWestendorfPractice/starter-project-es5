@@ -1,0 +1,16 @@
+// ------------------
+//  MIXINS
+// ------------------
+
+@mixin gridPadding {
+  width: 90%;
+  max-width: 1440px;
+  margin: 0 auto;
+  display: flex;
+}
+
+@media screen and (max-width: $bpMD) {}
+
+@media screen and (max-width: $bpSM) {}
+
+@media screen and (max-width: $bpMobile) {}

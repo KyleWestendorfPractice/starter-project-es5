@@ -1,0 +1,45 @@
+// ==================================================
+//
+//
+//      FCC Columbus - ES5 Starter Project
+//
+//      Author(s): Justin Woodward
+//
+// ==================================================
+
+// ---------------------
+//  STYLE GUIDE
+// ---------------------
+
+@import "style-guide/vars";
+@import "style-guide/colors";
+@import "style-guide/fonts";
+@import "style-guide/buttons";
+@import "style-guide/animations";
+
+// ---------------------
+//  BASE
+// ---------------------
+
+@import "base/mixins";
+@import "base/reset";
+
+// ---------------------
+//  GLOBAL
+// ---------------------
+
+@import "base/global";
+
+// ---------------------
+//  MODULES
+// ---------------------
+
+@import 'modules/starter-scss-template';
+
+// ==================================================
+//
+//
+//      FCC Columbus - ES5 Starter Project
+//
+//
+// ==================================================
